@@ -24,5 +24,4 @@ public class TestInputData {
         System.out.println("You from: "+address);
         System.out.println("You from: "+address);
     }//main
-
 }//class
