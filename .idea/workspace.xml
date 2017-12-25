@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27d7ba4f-9ac2-4ae2-b616-a675808cba0f" name="Default" comment="compareString">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab6/myStrBuffer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab6/myStrBuffer.java" afterPath="$PROJECT_DIR$/src/ooplab6/myStrBuffer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,21 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compareString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="compareString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab6/compareString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myStrBuffer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myStrBuffer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="54">
+              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -589,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514199729528</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="compareString">
+      <created>1514200118114</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1514200118114</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -654,9 +661,9 @@
     <MESSAGE value="Array 2D" />
     <MESSAGE value="Operator array" />
     <MESSAGE value="SortingArray" />
-    <MESSAGE value="compareString" />
     <MESSAGE value="myString" />
-    <option name="LAST_COMMIT_MESSAGE" value="myString" />
+    <MESSAGE value="compareString" />
+    <option name="LAST_COMMIT_MESSAGE" value="compareString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -945,18 +952,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/ooplab6/compareString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab6/compareString.java">
+    <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>

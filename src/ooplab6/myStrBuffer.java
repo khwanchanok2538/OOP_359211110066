@@ -15,6 +15,9 @@ public class myStrBuffer {
         System.out.println(buffer);
         buffer.replace(0, 4,"University of");
         System.out.println(buffer);
+        System.out.println(buffer.reverse()); //สลับตำแหน่งข้อความ
+        buffer.setCharAt(0,'T'); //สลับข้อความจากตัว U เป็น T
+        System.out.println(buffer);
 
     }//main
 }//class
