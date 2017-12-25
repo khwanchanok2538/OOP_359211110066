@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27d7ba4f-9ac2-4ae2-b616-a675808cba0f" name="Default" comment="compareString">
+    <list default="true" id="27d7ba4f-9ac2-4ae2-b616-a675808cba0f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab6/myStrToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab6/myStrBuffer.java" afterPath="$PROJECT_DIR$/src/ooplab6/myStrBuffer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myStrBuffer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myStrBuffer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myStrToken.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -86,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/ooplab6/myString.java" />
         <option value="$PROJECT_DIR$/src/ooplab6/compareString.java" />
         <option value="$PROJECT_DIR$/src/ooplab6/myStrBuffer.java" />
+        <option value="$PROJECT_DIR$/src/ooplab6/myStrToken.java" />
       </list>
     </option>
   </component>
@@ -161,26 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.myStrBuffer">
-    <configuration name="OperatorArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ooplab5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab5.OperatorArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OOP_359211110066" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.myStrToken">
     <configuration name="SortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -338,6 +330,25 @@
       <module name="OOP_359211110066" />
       <envs />
     </configuration>
+    <configuration name="myStrToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ooplab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ooplab6.myStrToken" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OOP_359211110066" />
+      <envs />
+    </configuration>
     <configuration name="myString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -359,19 +370,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.maArrayList" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OperatorArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SortingArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.myString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.compareString" />
-      <item index="5" class="java.lang.String" itemvalue="Application.myStrBuffer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SortingArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="3" class="java.lang.String" itemvalue="Application.compareString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.myStrBuffer" />
+      <item index="5" class="java.lang.String" itemvalue="Application.myStrToken" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.myStrBuffer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.compareString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.myString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SortingArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OperatorArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.myStrToken" />
+        <item index="1" class="java.lang.String" itemvalue="Application.myStrBuffer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.compareString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.myString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SortingArray" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514200118114</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="myStrBuffer">
+      <created>1514200364655</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1514200364655</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
@@ -663,7 +681,8 @@
     <MESSAGE value="SortingArray" />
     <MESSAGE value="myString" />
     <MESSAGE value="compareString" />
-    <option name="LAST_COMMIT_MESSAGE" value="compareString" />
+    <MESSAGE value="myStrBuffer" />
+    <option name="LAST_COMMIT_MESSAGE" value="myStrBuffer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -685,7 +704,7 @@
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -711,9 +730,9 @@
         <state relative-caret-position="969">
           <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1792#1793#0" expanded="true" />
-            <element signature="e#1859#1860#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1792#1793#0" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -919,9 +938,9 @@
         <state relative-caret-position="0">
           <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1792#1793#0" expanded="true" />
-            <element signature="e#1859#1860#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1792#1793#0" expanded="false" />
+            <element signature="e#1859#1860#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -939,7 +958,7 @@
         <state relative-caret-position="-189">
           <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -964,6 +983,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab6/myStrToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
