@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class myArray2D {
     public static void main(String[] args) throws IOException {
-      int num[][] = new int[2][3];
+      int num[][]= new int[2][3];
 //      num[0][0] = 1;
 //      num[0][1] = 2;
 //      num[0][2] = 3;
