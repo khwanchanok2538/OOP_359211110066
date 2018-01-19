@@ -42,7 +42,7 @@ public class SortingArray {
 
     private static void findMin(Integer[] num) {
         System.out.println("The Minimum value is: "+
-                Collections.max(Arrays.asList(num)));
+                Collections.min(Arrays.asList(num)));
     }//findMin
 
     private static void findMax(Integer[] num) {

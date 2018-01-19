@@ -24,7 +24,8 @@ public class TestCondition {
             System.out.println("y more than 20");
         }
 
-
+        System.out.println("OOP");
+        System.out.print("IS221");
 
     }//main
 }//class
