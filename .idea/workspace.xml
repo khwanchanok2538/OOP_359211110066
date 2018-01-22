@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27d7ba4f-9ac2-4ae2-b616-a675808cba0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab7/SuperCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab7/mySuperCar.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab7/Student.java" afterPath="$PROJECT_DIR$/src/ooplab7/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab7/StudentApp.java" afterPath="$PROJECT_DIR$/src/ooplab7/StudentApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab7/SuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="219">
@@ -67,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab7/mySuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
@@ -641,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516607537141</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="SuperCar">
+      <created>1516612738883</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1516612738883</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -710,7 +713,8 @@
     <MESSAGE value="compareString" />
     <MESSAGE value="myStrBuffer" />
     <MESSAGE value="Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student" />
+    <MESSAGE value="SuperCar" />
+    <option name="LAST_COMMIT_MESSAGE" value="SuperCar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1071,14 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab7/mySuperCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab7/SuperCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1103,6 +1099,14 @@
             <element signature="e#1968#1969#0" expanded="true" />
             <element signature="e#2012#2013#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab7/mySuperCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
