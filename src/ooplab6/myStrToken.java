@@ -9,7 +9,7 @@ public class myStrToken {
         StringTokenizer myToken = new StringTokenizer(msg);
         System.out.println(myToken.countTokens()); //การนับจำนวนคำ
 
-        while (myToken.hasMoreElements()){ //8elyj'.=คำสั่งใช้อ่านคำทีละคำไปจนถึงคำสุดท้าย
+        while (myToken.hasMoreElements()){ //คำสั่งใช้อ่านคำทีละคำไปจนถึงคำสุดท้าย
             StringBuffer myBuff = new StringBuffer(myToken.nextToken()); //nextToken การอ่านคำทีละคำ
             System.out.println(myBuff.reverse()+" ");
         }
