@@ -13,8 +13,5 @@ public class myStrToken {
             StringBuffer myBuff = new StringBuffer(myToken.nextToken()); //nextToken การอ่านคำทีละคำ
             System.out.println(myBuff.reverse()+" ");
         }
-
-
-
-    }//main
+   }//main
 }//class

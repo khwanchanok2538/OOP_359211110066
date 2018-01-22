@@ -18,8 +18,5 @@ public class compareString {
         else System.out.println("no. -");
 
 
-
-
-
     }//main
 }//class

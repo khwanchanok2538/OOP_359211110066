@@ -5,19 +5,20 @@ public class TestWhileLoop {
 
         //while loop
         int n = 1;
-//        while (n<=10){
-//            System.out.println("Hello");
-//            n++;
-//
-//        }//while
+        while (n<=10){
+            System.out.println("Hello");
+            n++;
 
-//        do-while
+        }//while
+
+        //do-while
         do {
             System.out.println("Hello");
             n++;
 
 
         } while (n<=10);
+
 
     }//main
 }//class
