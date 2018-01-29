@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pet.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Pet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Pet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
@@ -712,7 +712,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517215789935</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Dog">
+      <created>1517215800235</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1517215800235</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TodoView">
@@ -760,7 +767,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Input Score with Grade" />
     <MESSAGE value="local varible" />
     <MESSAGE value="Test Nestedloop" />
     <MESSAGE value="Test Methods" />
@@ -785,7 +791,8 @@
     <MESSAGE value="Trang" />
     <MESSAGE value="CampusApp" />
     <MESSAGE value="Cat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cat" />
+    <MESSAGE value="Dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1157,14 +1164,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1184,6 +1183,14 @@
             <element signature="e#257#258#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
