@@ -116,7 +116,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
@@ -126,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CarApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/CarApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="42">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -498,13 +498,6 @@
       <option name="presentableId" value="Default" />
       <updated>1511057590569</updated>
     </task>
-    <task id="LOCAL-00004" summary="Testing upload to Github">
-      <created>1511061826782</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1511061826782</updated>
-    </task>
     <task id="LOCAL-00005" summary="Testing upload to Github">
       <created>1511061908448</created>
       <option name="number" value="00005" />
@@ -841,7 +834,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517818584418</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Engine">
+      <created>1517818597840</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1517818597841</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView">
@@ -889,7 +889,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SortingArray" />
     <MESSAGE value="myString" />
     <MESSAGE value="compareString" />
     <MESSAGE value="myStrBuffer" />
@@ -914,7 +913,8 @@
     <MESSAGE value="PersonApp" />
     <MESSAGE value="Car" />
     <MESSAGE value="Cow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cow" />
+    <MESSAGE value="Engine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Engine" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1327,14 +1327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/CarApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab9/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1358,6 +1350,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/CarApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
