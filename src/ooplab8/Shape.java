@@ -27,4 +27,4 @@ public abstract class Shape {
     public void setLength(int length) {
         this.length = length;
     }
-}//Shape //รรูปร่าง รูปทรงเลขาคณิต
+}//Shape //รูปร่าง รูปทรงเลขาคณิต

@@ -4,6 +4,7 @@ package ooplab8;
 
 public class Dog extends Pet{
     public Dog(String name, String hairColor, String gender, String age) {
+
         super(name, hairColor, gender, age);
     }
 

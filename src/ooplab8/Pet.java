@@ -1,12 +1,12 @@
 package ooplab8;
 
-public class Pet {
-    private String name;
-    private String hairColor;
-    private String gender;
-    private String age;
+public abstract class Pet {
+    private String name; //ชื่อ
+    private String hairColor; //สีขน
+    private String gender;  //เพศ
+    private String age;  //อายุ
 
-    public void makeNoise(){}
+    protected abstract void makeNoise();
     //constructor
 
 
